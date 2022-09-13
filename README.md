@@ -1,4 +1,1 @@
-Bu algoritma ile öncelikle .txt dosyasında bulunan komşuluk listesi tek yönlü bağlı liste ile elde ediliyor. 
-Elde edilen yapıyı görmek için ekte bulunan resme bakabilirsiniz.
-Sonrasında komşuluk listesinde bulunan düğümleri tek yönlü bağlı liste ile kuyruğa ekliyor.
-BFS algoritmasında da bu kuyruk kullanılıyor.
+Bu algoritmayla .txt dosyasındaki komşuluk listesini, tek yönlü bağlı listeye çevirerek elde ediyoruz. Algoritmayla oluşturulan yapıyı görmek için eklenen resmi inceleyiniz. Resimde ve .txt dosyasında görülen soldaki düğümler kodda ana düğüm, sağdaki düğümler ise kodda komşu düğüm diye ifade edilmiştir. Not: Resime düğümlerin hepsi sığmamıştır. Algoritmayı daha iyi anlamak için akış şemasını inceleyebilirsiniz. Sonrasında komşuluk listesinde bulunan düğümleri tek yönlü bağlı liste ile kuyruğa ekliyor. BFS algoritmasında da bu kuyruk kullanılıyor.
